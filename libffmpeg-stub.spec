@@ -4,7 +4,7 @@
 #
 Name     : libffmpeg-stub
 Version  : 2
-Release  : 1
+Release  : 2
 URL      : http://localhost/cgit/projects/libffmpeg-stub/snapshot/libffmpeg-stub-2.tar.gz
 Source0  : http://localhost/cgit/projects/libffmpeg-stub/snapshot/libffmpeg-stub-2.tar.gz
 Summary  : No detailed summary available
